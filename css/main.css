@@ -1,0 +1,29 @@
+.header {
+  padding: 5px;
+  text-align: center;
+  background: #2E1A87;
+  color: white;
+  font-size: 18px;
+  font-family: Arial;
+}
+
+body {
+  background-color: white;
+  font-family: Arial;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 25px;
+  text-align: left;
+}
+
+th {
+  background-color: #1960A6;
+  color: white;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2
+}

@@ -1,0 +1,70 @@
+#encabezado {
+  text-align: center;
+  padding: 2%;
+}
+
+#backMenu {
+  text-align: left;
+  font-size: 24px;
+}
+
+#lateral {
+  float: right;
+  border: 2px solid black;
+  padding: 10px;
+  background-color: #e2e2f9;
+  font-size: 20px;
+}
+
+#formOpciones {
+  margin: 0 auto;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  display: inline-block;
+  font-size: 24px;
+}
+
+#camposOpciones {
+  width: auto;
+  border: 2px solid #aaa;
+  border-radius: 4px;
+  margin: 0 auto;
+  outline: none;
+  padding: 8px;
+  transition: .3s;
+  font-size: 20px;
+  box-sizing: border-box;
+}
+
+#camposOpciones:focus {
+  border-color: dodgerBlue;
+  box-shadow: 0 0 8px 0 dodgerBlue;
+}
+
+#botonGeneral {
+  background-color: #4CAF50; /* Green */
+  border: 2px solid black;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+#botonExportar {
+  background-color: #4CAF50; /* Green */
+  border: 2px solid black;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+#irArriba {
+  font-size: 32px;
+}

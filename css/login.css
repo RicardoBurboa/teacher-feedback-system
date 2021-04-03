@@ -1,0 +1,41 @@
+.espacioEncabezado {
+    padding: 2%;
+    text-align: center;
+}
+
+#formLogin {
+  margin: 0 auto;
+  width: 25%;
+  border: 2px solid black;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+#camposLogin {
+  width: auto;
+  border: 2px solid #aaa;
+  border-radius: 4px;
+  margin: 0 auto;
+  outline: none;
+  padding: 8px;
+  transition: .3s;
+  font-size: 20px;
+  box-sizing: border-box;
+}
+
+#camposLogin:focus {
+  border-color: dodgerBlue;
+  box-shadow: 0 0 8px 0 dodgerBlue;
+}
+
+.btnLoginCSS {
+  background-color: #4CAF50; /* Green */
+  border: 2px solid black;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 20px;
+  margin: 0 auto;
+}

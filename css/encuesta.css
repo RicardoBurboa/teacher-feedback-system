@@ -1,0 +1,41 @@
+#mensajeEncabezado {
+  text-align: center;
+  padding: 1%;
+  padding-bottom: 2%;
+}
+
+#formPreguntas {
+  border: 2px solid black;
+  padding: 1%;
+}
+
+#lateral {
+  float: right;
+  border: 2px solid black;
+  padding: 10px;
+  background-color: #e2e2f9;
+}
+
+#seleccionarMateria {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#pregunta {
+  font-size: 12px;
+}
+
+.botonGuardar {
+  background-color: #4CAF50; /* Green */
+  border: 2px solid black;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+#irArriba {
+  font-size: 32px;
+}
